@@ -25,7 +25,8 @@ A timely response is crucial in customer care. My analysis showed that about 87%
 ### Complaint Submission Channel
 I also analyzed how consumers submitted their complaints, whether through the Web, Phone, or web referrals. This behavioural insight showed that phone submission was by far the most popular method, suggesting the growing digital preference for resolving financial issues. This was visualized using a doughnut chart for intuitive comparison.
 ## Dashboard
-![customer 2](https://github.com/user-attachments/assets/475c7f28-c790-4423-9354-5e8f31682a9b)
+![github dashboard customer complaints](https://github.com/user-attachments/assets/a7304c34-1ff3-4602-80c8-157cd43ff54c)
+
 ## What I Learned
 •	Mastered using Power Query for transforming messy data efficiently.
 
