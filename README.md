@@ -8,13 +8,13 @@ The Organization collects and publishes complaints submitted by consumers across
 
 This project aimed to analyze these complaints to uncover hidden patterns, track performance in consumer handling, and better understand what types of products and issues generate the most dissatisfaction. By creating an interactive dashboard in Excel, I aimed to bring clarity to the trends and insights buried in the data, while also developing my skills in Excel analytics, data cleaning, and visualization.
 This analysis is especially important in a business or regulatory context, where companies and stakeholders can use such insights to improve customer service, reduce complaint volumes, and ensure compliance with fair treatment policies.
-## TOOLS I USED
+## Tools I Used
 Microsoft Excel: For Data visualization, formulas, pivot tables, and charts.
 
 Power Query: Used for Data cleaning and transformation
 
 Slicers: For Dynamic Filtering.
-## ANALYSIS
+## Analysis
 This dashboard offers a clear and interactive view of consumer complaint patterns across different financial products and services. It was designed to help users quickly identify which products receive the most complaints, what the common issues are, and how companies typically respond.
 ### Seasonal complaints trends
  I identified patterns in complaint volume over time. Notably, complaints peaked in March and July, with March accounting for 11.6% of all submissions. These seasonal spikes may align with  financial deadlines that prompt consumers to engage with financial institutions.
@@ -34,7 +34,7 @@ I also analyzed how consumers submitted their complaints, whether through the We
 
 •	Gained a deeper understanding of data storytelling and presentation best practices.
 
-## CONCLUSION
+## Conclusion
 This project provided valuable insights into how consumers interact with financial services and how companies respond to their concern.
 It demonstrates my ability to clean, analyze, and present large datasets using Excel. It reflects a strong foundation in Excel analytics, problem-solving, and design thinking skills I am ready to apply in professional settings or more advanced tools
 
